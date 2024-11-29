@@ -1,0 +1,156 @@
+.inp1{
+   
+    width: 200px;
+    height: 30px;
+background: transparent;
+border:none;
+outline: none;
+color: white;
+font-size: 20px;
+
+}
+.div1{
+    border: none;
+    width: 200px;
+    height: 45px;
+    display: flex;
+    gap: 5px;
+outline: none;
+}
+
+.div2{
+    border: none;
+    width: 100%;
+    height: 700px;
+    background-color:#1E1E1E;
+}
+.DIV4{
+    width:400px;
+    height:39px;
+    display: flex;
+    gap:10px;
+ 
+    background: transparent;
+    padding: 10px;
+    background-color: #2C2C2C;
+    border-radius: 9px;
+  
+}
+.SEARCH{
+    width: 25px;
+    height:25px;
+    margin-top:5px;
+    
+}
+.div3{
+  border: none;
+   margin-left: 30px;
+
+}
+
+.img2{
+    margin-left: 800px;
+}
+.div5{
+    margin-left: 27px;
+    display: flex;
+    gap: 20px;
+
+}
+
+.div6{
+    color: white;
+    border: 2px solid;
+    width: 220px;
+    height: 100px;
+    border-radius: 8px;
+    /* text-align: center; */
+    justify-content: start;
+    align-items: start;
+    display: flex;
+    gap:100px;
+    margin-top: 20px;
+}
+.p4{
+    width:50px;
+    height:50px;
+    border:none;
+    box-shadow:0px 0px 10px rgb(77, 77, 233);
+    font-weight:900;
+    font-size:40px;
+    text-align: center;
+    border-radius: 12px;
+    background-color:linear-gradient(to left rgb(35, 35, 172) blue);
+    
+background-color: #3e44f9
+;
+color:blue;
+position: absolute;
+margin-left:150px;
+/* margin-right     :50px; */
+
+}
+
+.div7{
+    color: white;
+    border: 2px solid;
+    width: 220px;
+    height: 100px;
+    border-radius: 8px;
+     /* text-align: center; */
+    justify-content: start;
+    align-items: start;
+    display: flex;
+    gap:10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.div11{
+    color: white;
+    border: 2px solid;
+    width: 220px;
+    height: 100px;
+    border-radius: 8px;
+    /* text-align: center; */
+    justify-content: start;
+    align-items: start;
+  
+    gap:100px;
+    margin-top: 20px;
+}
+
+.div9{
+    color: white;
+    border: 2px solid;
+    width: 220px;
+    height: 100px;
+    border-radius: 8px;
+    /* text-align: center; */
+    justify-content: start;
+    align-items: start;
+    display: flex;
+    gap:100px;
+    margin-top: 20px;
+}
+.p5{
+    width:50px;
+    height:50px;
+    border:none;
+    box-shadow:0px 0px 10px rgb(185, 39, 39);
+    font-weight:900;
+    font-size:40px;
+    text-align: center;
+    border-radius: 12px;
+    background-color:linear-gradient(to left rgb(211, 36, 79) rgb(209, 85, 69));
+    
+background-color: #a22727
+;
+color:rgb(255, 0, 21);
+position: absolute;
+margin-left:150px;
+/* margin-right     :50px; */
+
+}
+
